@@ -29,8 +29,6 @@
 
 - [與漢語拼音的差異]（重要！必讀！）(https://uliloewi.github.io/LangJinPinIn/LinIwnChaI)
 
-- [在线阅读]
-
 ## 致谢
 
 - [Rime](http://rime.im)：中州韵輸入法引擎
