@@ -53,6 +53,9 @@ speller:
   alphabet: zyxwvüutsrqponmlkjihgfedcbäa
   delimiter: " '"
   algebra:
+    # 去掉聲調
+    - xform/[1-5]//
+    
     # 針對南京新派的模糊音
     - derive/si/xi/
     - derive/zi/ji/
@@ -60,9 +63,9 @@ speller:
     - derive/sh/s/
     - derive/zh/z/
     - derive/ch/c/
-    - derive/guä5/guo5/
-    - derive/kuä5/kuo5/
-    - derive/huä5/huo5/
+    - derive/guä/guo/
+    - derive/kuä/kuo/
+    - derive/huä/huo/
 
     # 漢語拼音習慣
     - derive/j/ji/
@@ -70,7 +73,7 @@ speller:
     - derive/x/xi/
     - derive/zhr/zhi/
     - derive/chr/chi/
-    - derive/chr/shi/
+    - derive/shr/shi/
 
     # 便捷鍵
     - derive/ä/w/
