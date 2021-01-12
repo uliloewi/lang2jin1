@@ -66,10 +66,6 @@ speller:
     - derive/sh/s/
     - derive/zh/z/
     - derive/ch/c/
-    - derive/jä/je/
-    - derive/qä/qe/
-    - derive/xä/xe/
-    - derive/iä/ie/
     - derive/guä/guo/
     - derive/kuä/kuo/
     - derive/huä/huo/
@@ -79,9 +75,11 @@ speller:
     - derive/chr/chi/
     - derive/shr/shi/
 
-    # 便捷鍵
+    # 替代字母
     - derive/ä/w/
     - derive/ü/v/
+    
+    # 便捷鍵    
     - derive/ang/an/
     - derive/ong/on/
 
