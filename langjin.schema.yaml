@@ -66,13 +66,13 @@ speller:
     - derive/sh/s/
     - derive/zh/z/
     - derive/ch/c/
+    - derive/jä/je/
+    - derive/qä/qe/
+    - derive/xä/xe/
+    - derive/iä/ie/
     - derive/guä/guo/
     - derive/kuä/kuo/
     - derive/huä/huo/
-	- derive/jä/je/
-	- derive/qä/qe/
-	- derive/xä/xe/
-	- derive/iä/ie/
 
     # 漢語拼音習慣
     - derive/zhr/zhi/
