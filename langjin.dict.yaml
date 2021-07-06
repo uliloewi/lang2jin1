@@ -262,7 +262,7 @@ use_preset_vocabulary: true
 唉	ä3
 欸	ä1
 欸	ä3
-欸	xä4
+欸	hä4
 毐	ä1
 毐	ä3
 㶼	ä1
@@ -2627,7 +2627,7 @@ use_preset_vocabulary: true
 訬	chao1
 訬	miao3
 䰫	chao1
-䰫	shao4
+䰫	zhao4
 䫸	chao1
 朝	chao2
 朝	zhao1
@@ -3410,10 +3410,14 @@ use_preset_vocabulary: true
 楮	chu3
 楮	du3
 柠	chu3
+署	shu4
 署	chu3
 薯	chu3
 藷	chu3
 藷	zhu1
+曙	shu4
+薯	shu4
+藷	shu4
 曙	chu3
 褚	chu3
 褚	zhu3
@@ -4670,7 +4674,7 @@ use_preset_vocabulary: true
 𩢑	cy3
 𧺼	cy3
 𡘌	cy3
-𡘌	xä4
+𡘌	hä4
 𠟴	cy3
 欼	cy3
 㱀	cy3
@@ -10331,6 +10335,7 @@ use_preset_vocabulary: true
 押	ja5
 庘	ia5
 䆘	ia5
+胦	ang1
 胦	iang1
 央	iang1
 鴦	iang1
@@ -16137,7 +16142,7 @@ use_preset_vocabulary: true
 傌	ma4
 㑻	ma5
 齂	ma5
-齂	xä4
+齂	hä4
 齂	xi4
 礣	ma5
 䯦	ma5
@@ -16382,6 +16387,7 @@ use_preset_vocabulary: true
 勱	mä4
 䜕	mä4
 䜕	xä4
+䜕	hä4
 佅	mä4
 䆀	mä4
 䆀	mä3
@@ -19628,7 +19634,7 @@ use_preset_vocabulary: true
 揱	siao1
 𨛍	shao4
 𦓴	shao4
-㑿	shao4
+㑿	zhao4
 崽	shä1
 篩	shä1
 篩	sy1
@@ -20160,11 +20166,11 @@ use_preset_vocabulary: true
 𢮛	shuang4
 叀	shuang4
 叀	zhuang1
-撰	shuang4
+撰	zhuang4
 撰	zuang4
-饌	shuang4
+饌	zhuang4
 饌	zuang4
-漴	shuang4
+漴	zhuang4
 𤸬	shuä1
 摔	shuä1
 榱	shuä1
@@ -21280,7 +21286,7 @@ use_preset_vocabulary: true
 羍	ta5
 𦍒	ta5
 噧	ta5
-噧	xä4
+噧	hä4
 韃	ta5
 㿹	ta5
 踏	ta5
@@ -23484,10 +23490,10 @@ use_preset_vocabulary: true
 嶰	xä4
 𨼬	xä4
 邂	xä4
-㖑	xä4
-譮	xä4
-㞒	xä4
-𢗊	xä4
+㖑	hä4
+譮	hä4
+㞒	hä4
+𢗊	hä4
 械	xä4
 薤	xä4
 䪥	xä4
