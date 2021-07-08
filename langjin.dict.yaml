@@ -8790,10 +8790,10 @@ use_preset_vocabulary: true
 𤐰	ho5
 濩	ho5
 濩	hu4
-濩	uä5
+濩	ü5
 擭	ho5
 擭	hu4
-擭	uä5
+擭	ü5
 䨥	ho5
 䨥	zhr5
 𤻙	ho5
@@ -9423,7 +9423,7 @@ use_preset_vocabulary: true
 𢝇	huä5
 彠	huä5
 彠	io5
-彠	uä5
+彠	ü5
 獲	huä5
 嫿	huä5
 劃	huä5
@@ -14969,6 +14969,7 @@ use_preset_vocabulary: true
 㯬	liän3
 淰	liän3
 淰	shen3
+淰	lang3
 㜤	liän3
 㜤	shen3
 𨸱	liän3
@@ -14979,8 +14980,8 @@ use_preset_vocabulary: true
 稴	liän4
 稴	xän2
 𤬓	liän3
-𦊔	liän3
-𦌫	liän3
+𦊔	lang3
+𦌫	lang3
 練	liän4
 湅	liän4
 𣿊	liän4
@@ -19348,6 +19349,7 @@ use_preset_vocabulary: true
 曑	sen1
 襳	sen1
 襳	siän1
+襳	sang1
 𥥿	sen1
 穼	sen1
 省	sen3
@@ -22438,7 +22440,8 @@ use_preset_vocabulary: true
 枂	uä5
 枂	üe5
 䪝	uä5
-㠛	uä5
+䪝	ü5
+㠛	ü5
 逶	uei1
 蜲	uei1
 蜲	uei3
