@@ -5390,7 +5390,7 @@ use_preset_vocabulary: true
 銚	tiao1
 調	diao4
 調	tiao2
-調	zhou1
+調	zhou1	1%
 𥁮	diao4
 莜	diao4
 爹	die1
@@ -10336,7 +10336,7 @@ use_preset_vocabulary: true
 鴨	ia5
 壓	ia5
 押	ia5
-押	ja5
+押	ja5	1%
 庘	ia5
 䆘	ia5
 胦	ang1
