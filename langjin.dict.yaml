@@ -8222,9 +8222,9 @@ use_preset_vocabulary: true
 𤜂	guei4
 𤜂	guei4
 𤜂	uei4
-儈	guä4
-膾	guä4
-鱠	guä4
+儈	guä4	1%
+膾	guä4	1%
+鱠	guä4	1%
 襘	guä4
 禬	guä4
 禬	huei4
@@ -8236,7 +8236,7 @@ use_preset_vocabulary: true
 䯤	guä4
 鬠	guä4
 鬠	ho5
-會	guä4
+會	guä4	1%
 會	huei4
 䐴	guä4
 𢶒	guä4
@@ -13611,6 +13611,10 @@ use_preset_vocabulary: true
 𥢶	kuä4
 璯	kuä4
 筷	kuä4
+儈	kuä4
+膾	kuä4
+鱠	kuä4
+會	kuä4
 闊	kuä5
 蛞	kuä5
 䟯	kuä5
@@ -20280,9 +20284,9 @@ use_preset_vocabulary: true
 徙	si3
 璽	si3
 壐	si3
-徙	sy3
-璽	sy3
-壐	sy3
+徙	sy3	1%
+璽	sy3	1%
+壐	sy3	1%
 𢇌	si3
 洗	si3
 洗	siän3
