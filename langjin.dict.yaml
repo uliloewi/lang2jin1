@@ -6893,7 +6893,6 @@ use_preset_vocabulary: true
 䯽	pou2
 䯽	pou3
 𠟌	fu3
-䞤	fu3
 𠹪	fu3
 䞤	qü2
 缶	fu3
@@ -10576,6 +10575,7 @@ use_preset_vocabulary: true
 舀	iou2
 舀	ü2
 𦥨	iao3
+抌	iao3
 抭	iao3
 𩨴	iao3
 䁘	iao3
@@ -22320,6 +22320,7 @@ use_preset_vocabulary: true
 沃	u5
 鋈	u5
 㹊	u5
+𤛹	u5
 物	u5
 勿	u5
 𣃦	u5
@@ -22729,6 +22730,8 @@ use_preset_vocabulary: true
 衛	uei4
 㻰	uei4
 㻰	üe5
+璏	uei4
+璏	üe5
 璏	zhr4
 𥶽	uei4
 𧲝	uei4
