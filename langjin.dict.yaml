@@ -7445,6 +7445,7 @@ use_preset_vocabulary: true
 划	go3
 划	go4
 划	hua2
+划	hua4
 裹	go3
 裹	go4
 蜾	go3
@@ -9490,6 +9491,8 @@ use_preset_vocabulary: true
 嫿	huä5
 劃	huä5
 劃	hua5
+劃	hua2
+劃	hua4
 𠜻	huä5
 㗲	huä5
 咟	huä5
@@ -23430,7 +23433,6 @@ use_preset_vocabulary: true
 䠍	xa2
 蕸	xa2
 㰺	xa2
-㰺	ha1
 閜	xa3
 下	xa4
 丅	xa4
