@@ -7393,7 +7393,8 @@ use_preset_vocabulary: true
 𥔂	gen4
 歌	go1
 謌	go1
-柯	go1
+柯	go1	1%
+柯	ko1
 妿	go1
 妿	o1
 㤎	go1
@@ -24047,6 +24048,7 @@ use_preset_vocabulary: true
 螢	xong2	1%
 滎	xong2
 䁝	xong2
+覮	xong2
 𧵣	xong2
 𦬺	xong3
 詗	xong3
