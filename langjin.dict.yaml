@@ -601,7 +601,6 @@ use_preset_vocabulary: true
 扮	fen1
 扮	fen3	1%
 扮	fen4	1%
-扮	hua3	1%
 傍	bang4
 傍	pang2
 徬	bang4
@@ -9217,6 +9216,7 @@ use_preset_vocabulary: true
 崋	hua4
 鷨	hua2
 𧑍	hua2
+𢪆	hua3
 踝	hua4
 稞	hua4
 稞	ko1
