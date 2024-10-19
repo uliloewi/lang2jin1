@@ -4305,6 +4305,7 @@ use_preset_vocabulary: true
 𥻤	cou1
 䜅	shuei2
 䜅	uei2
+䜅	chuei1
 愁	cou2
 㵞	cou2
 㔌	cou2
@@ -6369,7 +6370,6 @@ use_preset_vocabulary: true
 妨	fang4
 淓	fang1
 䒦	fang1
-𣢲	fang1
 䒦	fang4
 煩	fang2
 蹯	fang2
@@ -6810,6 +6810,7 @@ use_preset_vocabulary: true
 秠	pei1
 秠	pei3
 𡫺	fu1
+𡬇	fu1
 衃	fu1
 衃	pei1
 肧	fu1
@@ -6907,7 +6908,6 @@ use_preset_vocabulary: true
 缶	fu3
 缹	fu3
 𡜊	fu3
-𡜊	pä1
 㤱	fu3
 㤱	fu4
 𢠲	fu3
@@ -10201,6 +10201,8 @@ use_preset_vocabulary: true
 疙	gi5
 疙	i5	1%
 疙	ji5	1%
+虼	gi5
+虼	je5
 屹	i5
 仡	i5
 仡	xi5
@@ -12517,8 +12519,7 @@ use_preset_vocabulary: true
 䰴	ji5
 䞘	ji5
 𢇓	ji5
-劇	ji5 
-劇	jü4
+劇	ji5
 屐	ji5
 𨍺	ji5
 𢜭	ji5
@@ -13652,6 +13653,7 @@ use_preset_vocabulary: true
 䒰	kuang1
 𩢼	kuang1
 䯑	kuang1
+𣢲	kuang1
 𡰝	kuang2
 鵟	kuang2
 軖	kuang2
@@ -20955,6 +20957,8 @@ use_preset_vocabulary: true
 毸	suei1
 嗺	suei1
 嗺	zuei1
+嶉	zuei1
+嶉	zuei3
 隨	suei2
 隋	suei2
 隋	to3
@@ -26166,9 +26170,6 @@ use_preset_vocabulary: true
 𤎱	züän3
 臇	zuei1
 臇	züän3
-嶉	zuei1
-嶉	zuei3
-嶉	zü1
 䘒	zuei1
 脧	zuei1
 𡱥	zuei1
@@ -26872,6 +26873,8 @@ use_preset_vocabulary: true
 去	ki4
 還	hä2
 吃	chr5
+喫	chr5
+沏	ci4
 沒	mei2
 行	xin2
 拔	ba5
