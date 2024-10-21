@@ -1197,7 +1197,6 @@ use_preset_vocabulary: true
 𥛘	bi5
 滭	bi5
 觱	bi5
-觱	ü5	1%
 鷝	bi5
 鷝	pi5
 珌	bi5
@@ -1437,6 +1436,7 @@ use_preset_vocabulary: true
 萹	piän1
 牑	biän1
 䟍	biän1
+䟍	miän3
 鞭	biän1
 鯿	biän1
 鯿	bang1
@@ -7135,7 +7135,10 @@ use_preset_vocabulary: true
 泔	gang1
 𤯎	gang1
 𤯎	hang2
+姏	gang1
 媣	gang1
+媣	rang3
+𡜉	rang3
 疳	gang1
 肛	gang1
 趕	gang3
@@ -9689,7 +9692,6 @@ use_preset_vocabulary: true
 䂕	huei4
 䢈	huei4
 𨘇	huei4
-𨘇	xän4
 繪	huei4
 𧬨	huei4
 噦	huei4
@@ -20587,7 +20589,6 @@ use_preset_vocabulary: true
 𤣝	siän3
 𥙮	siän3
 尠	siän3
-尠	sü4
 尟	siän3
 癬	siän3
 𤐨	siän3
