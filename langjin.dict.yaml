@@ -5571,7 +5571,6 @@ use_preset_vocabulary: true
 佔	diän1
 典	diän3
 蕇	diän3
-𩒝	diän3
 錪	diän3
 錪	tiän3
 𥮏	diän3
@@ -12099,8 +12098,12 @@ use_preset_vocabulary: true
 狤	je5
 狤	ji5
 魝	je5
+𡔢	je5
 𡔣	je5
+𡔢	qe5
 𡔣	qe5
+𡔢	xe5
+𡔣	xe5
 𧍩	je5
 傑	je5
 桀	je5
@@ -12247,6 +12250,7 @@ use_preset_vocabulary: true
 柬	jän3
 暕	jän3
 揀	jän3
+𩒝	jän3
 揀	liän4
 繭	jän3
 絸	jän3
@@ -14832,6 +14836,8 @@ use_preset_vocabulary: true
 𡽐	liao2
 蔂	lo2
 蔂	luei2
+𦿌	lo2
+𦿌	luei2
 敹	liao2
 嘹	liao2
 嘹	liao4
@@ -17947,7 +17953,7 @@ use_preset_vocabulary: true
 䶄	pin2
 荓	pin2
 䈂	pin2
-鵧	pin2
+鵧	pi2
 萍	pin2
 蓱	pin2
 郱	pin2
@@ -23551,6 +23557,7 @@ use_preset_vocabulary: true
 曉	xao3
 皢	xao3
 𦯪	xao4
+芍	xao4
 㵿	xao4
 澩	xao4
 澩	xo5
@@ -26228,7 +26235,6 @@ use_preset_vocabulary: true
 娵	zü1
 䃊	zü3
 跙	zü4
-𧽟	zü4
 聚	zü4
 埾	zü4
 𦳮	zü5
@@ -26239,6 +26245,7 @@ use_preset_vocabulary: true
 蠽	zie5
 𧓷	zie5
 𪇲	zie5
+𧽟	zie5
 尐	zie5
 𠯙	zie5
 絕	züe5
