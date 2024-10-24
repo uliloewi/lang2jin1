@@ -437,6 +437,7 @@ use_preset_vocabulary: true
 扒	bä4	1%
 扒	bie5	1%
 把	ba3
+𢃳	ba3
 靶	ba3
 㞎	ba3
 靶	ba4
@@ -8184,7 +8185,6 @@ use_preset_vocabulary: true
 𢜽	guei4
 𢜽	kuei2
 嫢	guei4
-嫢	xän4
 嫢	zuei1
 湀	guei4
 湀	kuei1
@@ -11972,6 +11972,7 @@ use_preset_vocabulary: true
 㽱	jou1
 𨲭	jao4
 㹾	jao4
+㰶	jao4
 叫	jao4
 訆	jao4
 嘂	jao4
@@ -12782,7 +12783,7 @@ use_preset_vocabulary: true
 窘	jüin4 
 鳩	jou1
 𦫶	jou1
-𦫶	qao1
+𦫶	jao1
 𠠳	jou1
 朻	jou1
 朻	jou3
@@ -19675,7 +19676,7 @@ use_preset_vocabulary: true
 𠧙	shao4
 𠧙	zhao4
 玿	shao2
-𢃳	shao2
+𢑦	shao2
 柖	shao2
 㸛	shao2
 少	shao3
@@ -23754,6 +23755,7 @@ use_preset_vocabulary: true
 臔	xän4
 哯	xän4
 睍	xän4
+𡠝	xän4
 㦓	xän4
 鼸	xän4
 檻	xän4
