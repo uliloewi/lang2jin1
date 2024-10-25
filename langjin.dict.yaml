@@ -2055,6 +2055,7 @@ use_preset_vocabulary: true
 裁	zä4	1%
 纔	cä2
 纔	shang1	1%
+纔	zä4
 財	cä2
 才	cä2
 材	cä2
@@ -3316,6 +3317,7 @@ use_preset_vocabulary: true
 䀸	zhr4
 揥	chr4
 揥	di1
+揥	ti4
 抶	chr5
 咥	chr5
 咥	die5
@@ -5351,6 +5353,7 @@ use_preset_vocabulary: true
 㹍	di5
 滷	di5
 滷	lu3
+滷	chr5
 㣙	di5
 嘀	di5
 嘀	zä5
@@ -7675,6 +7678,7 @@ use_preset_vocabulary: true
 䃓	gou4
 㝅	gou4
 㝅	lou3
+𣫌	lou3
 𢄇	gou4
 𢐙	gou4
 孤	gu1
@@ -14801,7 +14805,6 @@ use_preset_vocabulary: true
 㙩	liao4
 撩	liao2
 撩	liao3
-摷	liao2
 摷	zhao1
 廖	liao2
 廖	liao4
@@ -16863,6 +16866,7 @@ use_preset_vocabulary: true
 𥉴	mi5
 𥋱	mi5
 覓	mi5
+㫘	mi5
 𥄃	mi5
 冪	mi5
 幎	mi5
@@ -19014,7 +19018,6 @@ use_preset_vocabulary: true
 𤘻	rong3
 𪕎	rong3
 𨍷	rong3
-軵	rong3
 軵	rong3
 𩉪	rong4
 𩼅	rong4
@@ -23791,6 +23794,7 @@ use_preset_vocabulary: true
 𢹍	xi1
 𧕆	xi1
 䚙	xi1
+𣟵	xi1
 䚙	xüän1
 䖒	xi1
 㺣	xi1
