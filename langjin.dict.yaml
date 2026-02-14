@@ -2806,6 +2806,7 @@ use_preset_vocabulary: true
 縝	chen1
 縝	zhen3
 䐜	chen1
+偵	zhen1
 偵	chen1
 偵	chen4
 偵	zen4
@@ -4226,7 +4227,8 @@ use_preset_vocabulary: true
 襊	co5
 襊	cuei4
 錯	co5
-錯	cu4
+錯	co4
+錯	cu4	1%
 厝	co5
 厝	cu4
 逪	co5
@@ -8602,6 +8604,7 @@ use_preset_vocabulary: true
 𡚽	hao4
 晧	hao4
 暭	hao4
+暤	hao4
 皓	hao4
 昊	hao4
 昦	hao4
@@ -12538,7 +12541,6 @@ use_preset_vocabulary: true
 檵	ji4
 蘻	ji4
 㲅	ji4
-猘	ji4
 𦇧	ji4
 𣯅	ji4
 罽	ji4
@@ -17365,6 +17367,8 @@ use_preset_vocabulary: true
 餓	o4
 臥	o4
 侉	o4
+侉	kua1
+侉	kua3
 涴	o4
 握	o5
 握	u5
@@ -25393,6 +25397,7 @@ use_preset_vocabulary: true
 䱥	zhr4
 𦜗	zhr4
 狾	zhr4
+猘	zhr4
 𥍭	zhr4
 䭁	zhr4
 𤴟	zhr4
