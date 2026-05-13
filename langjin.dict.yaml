@@ -6884,8 +6884,9 @@ use_preset_vocabulary: true
 艀	fu2
 䨗	fu2
 甫	fu3
-脯	fu3
+脯	fu3	1%
 脯	pu2
+脯	pu3
 斧	fu3
 俯	fu3
 頫	fu3
@@ -8064,8 +8065,9 @@ use_preset_vocabulary: true
 虢	guä5
 㶁	guä5
 𧭣	guä5
-唬	guä5
-唬	xa4
+唬	guä5	1%
+唬	xa4	1%
+唬	hu3
 蟈	guä5
 馘	guä5
 聝	guä5
