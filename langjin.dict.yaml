@@ -1828,8 +1828,6 @@ use_preset_vocabulary: true
 抪	bu1
 抪	bu4
 抪	pu1
-鈽	bu1
-鈽	bu4
 補	bu3
 譜	bu3
 譜	pu3
@@ -6453,7 +6451,6 @@ use_preset_vocabulary: true
 瓬	fang3
 𩦠	fang4
 𦜒	fang3
-釩	fang3
 訪	fang3
 訪	fang4
 軬	fang4
@@ -7501,7 +7498,6 @@ use_preset_vocabulary: true
 合	go5
 合	ho5
 㪉	go5
-鉿	go5
 鮯	go5
 蛤	go5
 郃	go5
@@ -14104,8 +14100,6 @@ use_preset_vocabulary: true
 爤	lang4
 𢒞	lang4
 糷	lang4
-鑭	lang2
-鑭	lang4
 𢅼	lang4
 𢅼	luei2
 埌	lang4
@@ -26988,7 +26982,6 @@ use_preset_vocabulary: true
 羋	mi3
 醚	mi2
 穈	mi2
-鈮	li2
 妮	li2
 礃	zhang3
 嚐	chang2
@@ -27054,6 +27047,17 @@ use_preset_vocabulary: true
 醛	cüe5	1%
 氧	iang3
 氫	qin1
+鈽	bu1	1%
+鈽	bu4
+釩	fang2
+釩	fang3	1%
+鉿	go5
+鉿	ha1	1%
+鑭	lang2
+鑭	lang4	1%
+鈮	li2
+鈮	li3	1%
+鉨	li3
 鉝	li5
 羥	qang3
 羥	ken1	1%
