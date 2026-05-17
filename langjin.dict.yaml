@@ -13447,9 +13447,6 @@ use_preset_vocabulary: true
 硜	ken1
 摼	ken1
 㰢	ken1
-羥	ken1
-羥	qang1
-羥	qän1
 墾	ken3
 懇	ken3
 啃	ken3
@@ -23556,6 +23553,7 @@ use_preset_vocabulary: true
 瞎	xa5
 𩮂	xa5
 洽	xa5
+洽	qa5
 䨐	xa5
 狹	xa5
 陜	xa5
@@ -26765,7 +26763,6 @@ use_preset_vocabulary: true
 乒	pin1
 嗶	bi5
 鍀	dä5
-氫	qin1
 藎	zin4
 砷	shen1
 鋅	sin1
@@ -26809,7 +26806,6 @@ use_preset_vocabulary: true
 餃	jao4
 礁	ziao1
 嘦	jao4
-氧	iang3
 樑	liang2
 晾	liang4
 鎳	lie5
@@ -27005,6 +27001,9 @@ use_preset_vocabulary: true
 墘	qän2
 唔	u2
 括	gua5
+#集韻字
+砳	lä5
+嚈	ie5
 #俗音
 撣	dang3
 這	zhe4
@@ -27031,12 +27030,10 @@ use_preset_vocabulary: true
 暑	chu3
 鼠	chu3
 叭	ba4
-砳	lä5
 肽	tä4
 粹	cuei4
 卍	uang4
 膝	ci5
-嚈	ie5
 圳	zen4
 瀋	shen3
 氓	mang2
@@ -27048,9 +27045,23 @@ use_preset_vocabulary: true
 礦	kuang4
 捐	jüän1
 艦	jän4
+#化學字
 氕	pie5
 氘	dao1
 氚	chuang1
+鿫	ao4
+醛	cüän2
+醛	cüe5	1%
+氧	iang3
+氫	qin1
+鉝	li5
+羥	qang3
+羥	ken1	1%
+羥	qän1	1%
+羧	so1
+羧	zuei1	1%
+羰	tang1
+鿬	tiän2
 #半邊音
 嶼	ü3
 鯨	jin1
