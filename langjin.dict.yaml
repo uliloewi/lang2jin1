@@ -18,7 +18,6 @@ use_preset_vocabulary: true
 啊	o1	1%
 阿	a5
 阿	o1
-錒	a5
 安	ang1
 侒	ang1
 鞌	ang1
@@ -1877,8 +1876,6 @@ use_preset_vocabulary: true
 䪁	fu5
 鳪	bu5
 瞨	bu5
-鏷	bu5
-鏷	pu5
 䗱	bu5
 䗱	pu5
 䴆	bu5
@@ -16662,7 +16659,6 @@ use_preset_vocabulary: true
 塺	mei2
 塺	mo4
 鋂	mei2
-鎇	mei2
 酶	mei2
 䊈	mei2
 䤂	mei2
@@ -18389,6 +18385,7 @@ use_preset_vocabulary: true
 僛	qi1
 𪅾	qi1
 𪀩	qi1
+𡖾	qi1
 䶞	qi1
 䶞	qi2
 溪	qi1
@@ -26653,7 +26650,6 @@ use_preset_vocabulary: true
 鐠	pu3
 舖	pu4
 唗	dou1
-釷	tu3
 堍	tu4
 䬲	gou1
 芶	gou1
@@ -26840,7 +26836,6 @@ use_preset_vocabulary: true
 讆	uei4
 躗	uei4
 碚	bei4
-錇	bei4
 揹	bei1
 霉	mei2
 頹	tuei2
@@ -27055,8 +27050,26 @@ use_preset_vocabulary: true
 鉿	go5	1%
 鑭	lang2
 鑭	lang4	1%
+錒	a5
+釷	tu3
+鏷	pu5
+鏷	bu5	1%
+鎿	la2
+錼	lä4
 鈽	bu4
 鈽	bu1	1%
+鎇	mei2
+錇	pei2
+錇	fu2	1%
+鉳	bä5
+鐦	kä1
+鉲	ka3
+鎄	ä1
+鑀	ä4
+鐨	fei4
+鍆	men2
+鍩	lo5
+鐒	lao2
 𨧀	du4
 𨭎	xi3
 𨨏	bo1
