@@ -8259,7 +8259,7 @@ use_preset_vocabulary: true
 炅	guei4
 炅	jong3
 筀	guei4
-𤰮	guei4
+𤱉	guei4
 𤱾	guei4
 𣧎	guei4
 䳏	guei4
@@ -18400,6 +18400,7 @@ use_preset_vocabulary: true
 螇	qi1
 螇	xi2
 𤳤	qi1
+𤳃	qi1
 𤲺	qi1
 琦	qi2
 鵸	qi2
@@ -18509,7 +18510,8 @@ use_preset_vocabulary: true
 䡔	qi3
 𢺵	qi4
 𨑤	qi4
-吱	qi4
+吱	qi4	1%
+吱	zhr1
 棄	qi4
 弃	qi4
 夡	qi4
@@ -26984,6 +26986,7 @@ use_preset_vocabulary: true
 墘	qän2
 唔	u2
 括	gua5
+噝	sy1
 #集韻字
 砳	lä5
 嚈	ie5
