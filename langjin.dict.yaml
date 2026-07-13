@@ -12624,7 +12624,7 @@ use_preset_vocabulary: true
 經	jin1
 經	jin4
 涇	jin1
-頸	jin1
+鵛	jin1
 頸	jin3
 頸	qin2
 巠	jin1
@@ -18187,7 +18187,7 @@ use_preset_vocabulary: true
 䲾	qao3
 竅	qao4
 撽	qao4
-𢵿	qao4
+𢶡	qao4
 撬	qao4
 𠿕	qao4
 㢗	qao4
@@ -18558,6 +18558,7 @@ use_preset_vocabulary: true
 泣	qi5
 㬤	qi5
 湆	qi5
+湇	qi5
 卿	qin1
 輕	qin1
 輕	qin4
@@ -18648,6 +18649,7 @@ use_preset_vocabulary: true
 嶨	qo5
 嶨	xo5
 𡴊	qo5
+𠕓	qo5
 𣤇	qo5
 埆	qo5
 𡇱	qo5
@@ -26743,7 +26745,7 @@ use_preset_vocabulary: true
 恆	hen2
 掙	zen1
 掙	zen4
-僳	su4
+僳	su5
 晳	xi1
 銫	sä4
 矽	si5
@@ -27100,6 +27102,7 @@ use_preset_vocabulary: true
 烴	jin3	1%
 炔	qüe5
 炔	guei4	1%
+唑	zo4
 #半邊音
 嶼	ü3
 鯨	jin1
