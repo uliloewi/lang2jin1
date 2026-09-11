@@ -4917,6 +4917,7 @@ use_preset_vocabulary: true
 蛋	dang4
 蛋	dang4
 袒	dang4
+袒	tang3
 袒	zhang4
 襢	dang4
 襢	zhang3
@@ -10722,7 +10723,7 @@ use_preset_vocabulary: true
 䑂	iä3
 𦚪	iä3
 野	ie3
-野	shu4
+野	shu4	1%
 壄	ie3
 也	ie3
 冶	ie3
@@ -18900,6 +18901,7 @@ use_preset_vocabulary: true
 劵	qüän4
 券	qüän4
 𥛁	qüän4
+䄐	qüän4
 䠣	süän4
 囷	qüin1
 箟	qüin1
@@ -18924,7 +18926,6 @@ use_preset_vocabulary: true
 入	r5
 入	ru5
 𩭿	ra5
-嚷	rang1
 嚷	rang2
 嚷	rang3
 然	rang2
@@ -18998,6 +18999,7 @@ use_preset_vocabulary: true
 𧳨	rao3
 熱	rä5
 讘	rä5
+讘	zhä5
 𦣀	rä5
 囁	rä5
 囁	zhä5
@@ -19007,6 +19009,8 @@ use_preset_vocabulary: true
 若	re3	1%
 若	ro5
 惹	re3
+𢜪	ro5
+惹	ro5
 喏	re3
 𠰒	re3
 扔	ren1
