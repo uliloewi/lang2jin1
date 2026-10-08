@@ -7294,6 +7294,7 @@ use_preset_vocabulary: true
 改	gä3
 頦	gä3
 頦	hä2
+頦	hä1
 絠	gä3
 箉	jä4
 拐	jä4
@@ -14968,6 +14969,7 @@ use_preset_vocabulary: true
 巤	lie5
 㲱	lie5
 儠	lie5
+儠	la5
 躐	lie5
 䁽	lie5
 𣋲	lie5
@@ -18541,7 +18543,8 @@ use_preset_vocabulary: true
 䒗	xi5
 芞	xi5
 芞	xi5
-隙	qi5
+隙	xi5
+隙	qi5	1%
 𧯈	qi5
 𡭴	qi5
 郤	qi5
@@ -19194,6 +19197,7 @@ use_preset_vocabulary: true
 㦺	ru5
 嗕	ru5
 𪑾	ru5
+𩱨	ru5
 育	ru5
 毓	ru5
 獄	ru5
@@ -19295,7 +19299,7 @@ use_preset_vocabulary: true
 𢶍	sa5
 𢶍	za5
 𨆂	sa5
-㪪	sa5
+𩐅	sa5
 𡐥	sa5
 𦙽	sang1
 𦙱	sang1
@@ -19364,6 +19368,7 @@ use_preset_vocabulary: true
 颾	sao1
 艘	sao1
 艘	siao1
+艘	sou1
 䑹	sao1
 㮴	sao1
 𠋺	sao1
@@ -19382,6 +19387,7 @@ use_preset_vocabulary: true
 𦺋	sao3
 𦺋	sou1
 䕅	sao3
+䕅	sou1
 糔	sao3
 糔	siou3
 喿	sao4
@@ -20773,6 +20779,7 @@ use_preset_vocabulary: true
 樇	siou1
 饈	siou1
 滫	siou3
+醙	siou3
 䤇	siou3
 𦄼	siou3
 𦄼	song3
@@ -20907,6 +20914,7 @@ use_preset_vocabulary: true
 騪	sou1
 䮟	sou1
 𧽏	sou1
+䤇	sou1
 醙	sou1
 涑	sou1
 涑	su5
@@ -21498,6 +21506,7 @@ use_preset_vocabulary: true
 鰨	ta5
 𦶑	ta5
 傝	ta5
+傝	da5
 傝	tang4
 𧪦	ta5
 𦐇	ta5
@@ -21707,7 +21716,9 @@ use_preset_vocabulary: true
 邰	tä1
 臺	tä2
 抬	tä2
+抬	tä1
 擡	tä2
+擡	tä1
 苔	tä2
 炱	tä2
 嬯	tä2
