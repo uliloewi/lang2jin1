@@ -26447,7 +26447,7 @@ use_preset_vocabulary: true
 懈	xä4
 卨	sie5
 捐	jüän1
-#化學新造字撞形字
+#化學新造字
 氕	pie5
 氘	dao1
 氚	chuang1
@@ -26470,15 +26470,7 @@ use_preset_vocabulary: true
 鿫	ao4
 羰	tang1
 唑	zo4
-#半邊音
-嶼	ü3
-鯨	jin1
-#南京話字母
-ä	w
-Ä	w
-ü	v
-Ü	v
-#書
+#以下符合韻書至今音的演變律，算讀書音或文讀音，日常口語罕用
 啊	o1	1%
 顉	qin1
 捱	iä2
@@ -26787,7 +26779,7 @@ use_preset_vocabulary: true
 羧	zuei1
 烴	jin3
 炔	guei4
-#白
+#以下是白讀音，不合韻書至今音的演變律
 啊	a2
 扒	ba1
 浜	bang1
@@ -26951,8 +26943,10 @@ use_preset_vocabulary: true
 了	lao
 瀋	shen3
 艦	jän4
+嶼	ü3
+鯨	jin1
 恢	huei1
-#古
+#以下字讀音滯古，故不合韻書至今音的演變律
 啊	a1
 捱	ä2
 冹	ba5
@@ -27043,7 +27037,7 @@ use_preset_vocabulary: true
 顉	ken1
 蜷	kuang2
 礦	kuang4
-#訓
+#以下是訓讀，故不合韻書至今音的演變律
 獃	dä1
 呆	dä1
 闖	chuang3 
@@ -27057,11 +27051,11 @@ use_preset_vocabulary: true
 圩	uei2
 跤	jao1
 閘	zha5
-#假
+#以下是假借字，故不合韻書至今音的演變律
 排	pä3
 什	shen2
 甚	shen2
-#雅
+#以下是雅讀字，避免和髒話凶言同音，故不合韻書至今音的演變律。
 卑	bei1
 鳥	liao3
 昆	kuen1 
@@ -27080,7 +27074,7 @@ use_preset_vocabulary: true
 糏	süe5
 薛	süe5
 尹	in3
-#後
+#以下是後世新造字，且與韻書古字撞形。
 胺	ang1
 噢	ao1
 拼	pin1
@@ -27136,3 +27130,8 @@ use_preset_vocabulary: true
 羧	so1
 烴	tin1
 炔	qüe5
+#南京話字母
+ä	w
+Ä	w
+ü	v
+Ü	v
