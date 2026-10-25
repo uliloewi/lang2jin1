@@ -3820,6 +3820,7 @@ use_preset_vocabulary: true
 哨	shao4
 哨	siao1
 俏	ciao4
+偢	ciao4
 帩	ciao4
 𪑊	ciao4
 鞘	shao1
@@ -19325,6 +19326,7 @@ use_preset_vocabulary: true
 贍	shang4
 掞	shang4
 釤	shang4
+釤	shang1
 㣌	shang4
 燒	shao1
 燒	shao4
@@ -26042,7 +26044,6 @@ use_preset_vocabulary: true
 硒	si1
 焐	u4
 痦	u4
-銪	iou3
 煲	bao1
 噗	pu1
 嘟	du1
@@ -26459,6 +26460,8 @@ use_preset_vocabulary: true
 錇	pei2
 鐦	kä1
 鉕	po3
+銪	iou3
+釓	ga5
 鋱	tä5
 鈥	ho3
 銩	diou1
@@ -26711,9 +26714,10 @@ use_preset_vocabulary: true
 瑞	shuei4
 燥	sao4
 猩	sen1
-傻	shua3
 所	su3
 汛	sin4
+傻	shua3
+傻	shua4
 史	sy3	1%
 使	sy3	1%
 駛	sy3	1%
