@@ -2484,8 +2484,13 @@ use_preset_vocabulary: true
 䐮	chang3
 產	chang3
 產	shang3
+滻	chang3
 産	chang3
 産	shang3
+㹌	chang3
+簅	chang3
+摌	chang3
+嵼	chang3
 闡	chang3
 繟	chang3
 繟	tang2
@@ -3521,6 +3526,8 @@ use_preset_vocabulary: true
 疒	lä5
 𥽽	chuang3
 𥽽	shang3
+䊲	chuang3
+䊲	shang3
 舛	chuang3
 喘	chuang3
 荈	chuang3
@@ -20955,7 +20962,6 @@ use_preset_vocabulary: true
 𢓪	sy4
 涘	sy4
 𥾩	sy4
-賜	sy4
 𧀩	sy4
 澌	sy4
 𣩠	sy4
@@ -26746,6 +26752,7 @@ use_preset_vocabulary: true
 箰	süin3	1%
 隼	süin3	1%
 鵻	süin3	1%
+賜	sy4
 韃	ta5
 傝	ta5
 趟	zen4
@@ -26828,6 +26835,7 @@ use_preset_vocabulary: true
 襬	bä3
 憊	bei4
 𢟡	bei4
+賜	cy4
 迫	pä5
 否	fou3
 缶	fou3
